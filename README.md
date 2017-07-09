@@ -1,1 +1,1 @@
-# logit_vs_rolling_example1
+# Logistic Regression with Moving Average Density Plot
